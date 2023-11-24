@@ -20,4 +20,7 @@ All codes were obtained from the official pyTorch page: [[Link]](https://pytorch
 ## Results
 ![generated](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/b3e93f50-1a4f-4864-a5ff-102b92e70aa6)
 
+## 📖 Lecture Note
+* <strong>DCGAN lecture note</strong>: [[Link](https://shacoding.com/2023/11/24/%ec%bd%94%eb%94%a9-%ec%8b%a4%ec%8a%b5-deep-convolutional-generative-adversarial-networks/)] (23.11.09)
+
  
